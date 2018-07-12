@@ -27,7 +27,8 @@ function fn_settings_variants_addons_facebook_store_layout_id()
     $companies = fn_get_short_companies();
 
     foreach ($layout->getList($company_id) as $layout) {
-        $variants[$layout['layout_id']] = sprintf('%s (%s)', $layout['name'], $companies[$layout['company_id']]);
+        $company = isset($layout['company_id']) ? implode('', array(' (', $companies[$layout['company_id']], ')')) : '';
+        $variants[$layout['layout_id']] = sprintf('%s%s', $layout['name'], $company);
     }
 
     return $variants;
