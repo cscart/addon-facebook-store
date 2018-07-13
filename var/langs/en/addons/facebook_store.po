@@ -1,0 +1,53 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::facebook_store"
+msgid "Facebook store"
+msgstr "Facebook store"
+
+msgctxt "Addons::description::facebook_store"
+msgid "Allows you to add your store to Facebook as a tab on one of your pages."
+msgstr "Allows you to add your store to Facebook as a tab on one of your pages."
+
+msgctxt "SettingsSections::facebook_store::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::facebook_store::page_id"
+msgid "Page ID"
+msgstr "Page ID"
+
+msgctxt "SettingsOptions::facebook_store::app_id"
+msgid "App ID"
+msgstr "App ID"
+
+msgctxt "SettingsOptions::facebook_store::layout_id"
+msgid "Widget layout ID"
+msgstr "Widget layout ID"
+
+msgctxt "Languages::facebook_store.tab_url"
+msgid "Secure Page Tab URL"
+msgstr "Secure Page Tab URL"
+
+msgctxt "Languages::facebook_store.game_url"
+msgid "Facebook Web Games URL (https)"
+msgstr "Facebook Web Games URL (https)"
+
+msgctxt "Languages::facebook_store.add_store_to_page"
+msgid "Add [product] Store to Your Facebook Page"
+msgstr "Add [product] Store to Your Facebook Page"
+
+msgctxt "Languages::facebook_store.text_page_steps"
+msgid "<ol class=\"steps\"><li>Select a Facebook page where you want to embed your [product] store</li><li>Go to the Facebook page and check out your new Store app!</li></ol>"
+msgstr "<ol class=\"steps\"><li>Select a Facebook page where you want to embed your [product] store</li><li>Go to the Facebook page and check out your new Store app!</li></ol>"
+
+msgctxt "Languages::facebook_store.select_page"
+msgid "Select page"
+msgstr "Select page"
+
+msgctxt "Languages::facebook_store.text_new_page_note"
+msgid "If you do not have a page, please <a target=\"_blank\" href=\"//www.facebook.com/pages/create/\">create</a> one first"
+msgstr "If you do not have a page, please <a target=\"_blank\" href=\"//www.facebook.com/pages/create/\">create</a> one first"
